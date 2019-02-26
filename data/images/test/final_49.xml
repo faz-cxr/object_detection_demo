@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>final_49.jpg</filename>
+	<path>C:\Users\faz\Desktop\images\final_49.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>130</width>
+		<height>151</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>parasitized</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>96</ymin>
+			<xmax>90</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+</annotation>
